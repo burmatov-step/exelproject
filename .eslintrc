@@ -19,7 +19,8 @@
         "object-curly-spacing": "off",
         "quotes": "off",
         "operator-linebreak" : "off",
-        "padded-blocks" : "off"
+        "padded-blocks" : "off",
+
 
     },
     "extends": ["eslint:recommended", "google"]
